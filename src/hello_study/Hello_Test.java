@@ -7,5 +7,6 @@ public class Hello_Test {
 		System.out.println("Hello Two Test");
 		System.out.println("update from local");
 		System.out.println("Git Hub Edit");
+		System.out.println("Last Add");
 	}
 }
